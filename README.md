@@ -32,10 +32,7 @@ https://forest.watch.impress.co.jp/library/software/winscp/
 `インストール`をクリック  
 ![](images/008.png)
 
-`スタートページを開く`のチェックを外す  
-![](images/009.png)
-
-`完了`をクリック  
+`スタートページを開く`のチェックを外して、`完了`をクリック  
 ![](images/010.png)
 
 WinSCPが起動すればインストール完了
