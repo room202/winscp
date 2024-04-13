@@ -20,7 +20,6 @@ https://forest.watch.impress.co.jp/library/software/winscp/
 「現在のユーザー用にインストール」をクリック  
 ![](images/004.png)
 
-
 「許諾」をクリック  
 ![](images/005.png)
 
